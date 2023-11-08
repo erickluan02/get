@@ -1,7 +1,6 @@
 /**
  * APP Health
  * @author Erick Luan
- * https://joseassis.com.br
  */
 
 // imc (índice de massa corporal)
