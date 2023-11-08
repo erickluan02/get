@@ -1,6 +1,6 @@
 /**
  * APP Health
- * @author Professor José de Assis
+ * @author Erick Luan
  * https://joseassis.com.br
  */
 
