@@ -9,5 +9,6 @@
             alt="CSS válido!" />
     </a>
 </p>
+
 # GET
 Calculadora de gasto energético total.
